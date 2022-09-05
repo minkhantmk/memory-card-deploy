@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/memory-card-deploy/static/js/main.edcaaa14.js",
+    "static/media/background.png": "/memory-card-deploy/static/media/background.894e4ddeabbbcdc14721.png",
+    "static/media/card6.svg": "/memory-card-deploy/static/media/card6.3526cdeb861c77a25b8973802c97969c.svg",
+    "static/media/card7.svg": "/memory-card-deploy/static/media/card7.9b586b2f2417e860574916f823d7a448.svg",
+    "static/media/card4.svg": "/memory-card-deploy/static/media/card4.75fae6d8cf00db51a76eb67b30db4228.svg",
+    "static/media/card5.svg": "/memory-card-deploy/static/media/card5.84d44bc8b24bcc6c1ca13d99520fc70b.svg",
+    "static/media/card9.svg": "/memory-card-deploy/static/media/card9.161f4e41413b7a03d7ec48572ff48c82.svg",
+    "index.html": "/memory-card-deploy/index.html",
+    "static/media/card8.svg": "/memory-card-deploy/static/media/card8.c8d6019932ef35c259e7077fbfcf7887.svg",
+    "static/media/card3.svg": "/memory-card-deploy/static/media/card3.39aca43d34b7940d1997f93c9e849aeb.svg",
+    "static/media/card1.svg": "/memory-card-deploy/static/media/card1.360e077c50c9c59bca94b7f04cb52b52.svg",
+    "static/media/card2.svg": "/memory-card-deploy/static/media/card2.c0f3ca948d1ef1233a029a48570848eb.svg",
+    "main.edcaaa14.js.map": "/memory-card-deploy/static/js/main.edcaaa14.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.edcaaa14.js"
+  ]
+}
